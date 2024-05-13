@@ -35,6 +35,8 @@
 
 **Air Quality Monitoring App** is an intuitive single Page Application (SPA) displaying real-time air pollution levels across Venezuelan states.
 
+![Airapp](https://github.com/bohaz/air-quality-monitoring-app/assets/127757182/6aa8d19c-fe9f-4264-aed7-ff996665130a)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 - React APP
