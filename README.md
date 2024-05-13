@@ -56,13 +56,13 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Real-time Data]**
-- **[User-Friendly Interface]**
-- **[Comprehensive Details]**
-- **[Visual Indicators]**
-- **[Best organization]**
-- **[Professional documentation]**
-- **[Clean coding]**
+- **Real-time Data**
+- **User-Friendly Interface**
+- **Comprehensive Details**
+- **Visual Indicators**
+- **Best organization**
+- **Professional documentation**
+- **Clean coding**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,9 +93,8 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-cd my-folder
-
 ```sh
+  cd my-folder
   git clone git@github.com:bohaz/air-quality-monitoring-app.git
 ```
 
