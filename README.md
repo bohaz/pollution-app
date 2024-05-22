@@ -145,9 +145,8 @@ You can deploy this project using:
 👤 **Ricardo Martínez**
 
 - GitHub: [@bohaz](https://github.com/bohaz)
-- Twitter: [@Ricardo29115571](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](www.linkedin.com/in/ricardomartínez∴)
-
+- Portfolio: [Ricardo's Portfolio](https://ricardosportfolio.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
